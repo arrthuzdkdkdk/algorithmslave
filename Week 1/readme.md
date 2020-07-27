@@ -5,4 +5,5 @@ For this week we had an introduction to generative design, what it is and some n
 For the first activity we had to create somewhat of an analogue generative design. We used random dice rolls and parameters to create a design; through this everyone could do the activity and get completely different outcomes even though we all used the same parameters. My group decided to create a line drawing, with the parameters and dice rolls deciding the direction of the line, the colour, the size and the style. With each line connecting to each other it creates a path that you can follow and if you really wanted, you could trace back the parameters through the drawing itself.
 Here is the image of the work and the parameters + the results I got at the bottom.
 
-![GitHub Logo](20200727_153347.jpg)
+![Image 1](20200727_153347.jpg)
+![Image 2](20200727_153405.jpg)
