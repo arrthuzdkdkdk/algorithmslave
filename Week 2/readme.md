@@ -13,38 +13,63 @@ For homework we were tasked to do the 12 Hour Challenge, which is essentially le
 Firstly let’s grab these playlists together, most are created by me but a couple are created by other people that I listen to frequently. Here are all the playlists I’ll be using along with what genre they are.
 
 afro vibes - afrobeat 
+
 🏁⛈🖤 - hip hop/rnb
+
 yee to the haw - country
+
 see you in the pit - hard rock
+
 🧪 - psychedelic
+
 crate diggin studio one - reggae
+
 if i owned a diner - doo-wop
+
 funk dance funk - dance music 
+
 i got the bluuuuuueees they multiplying - blues
+
 look at my lips bruv you're roowenenit - british rap
+
 russell coight's wet dream - aussie tunes
+
 that rare soul/funk - rare soul and funk
+
 late night alt jazz tunes - alternative jazz
+
 conversations in jazz - jazz
+
 feel something - soul
+
 vibes - old school hip hop
+
 old school rnb - rnb
+
 
 Now some playlists may have only 10 songs while others may have 50+. For this I am going to be using a 20 sided dice to pick the songs, since that's the biggest one I have, and for the shorter playlists if I reach the end I’ll just go to the start and continue the count. Along with this I’ll also be rolling the 20 sided dice to pick the genre, now there are only 17 playlists so if I roll anything higher I’ll just simply reroll.
 
 So that’s our playlist generator created, now how am I going to listen to it. Well firstly we can either choose to shuffle or not shuffle which will be determined by the flip of a coin. But if we don’t shuffle I’ll be listening to the same order of songs everytime. To change this up I am also going to be introducing a roll to sort the playlist. Now on Spotify you can sort the playlist in a couple ways which will also be determined by a dice roll.
+
 Title
+
 Artist
+
 Album
+
 Date Added
+
 Song Length
 
+
 Head - Shuffle 
+
 Tails - Not shuffle
 
 Each of these can also be sorted in ascending or descending order, which will also be determined by a coin flip.
 
 Head - Ascending
+
 Tails - Descending
 
 In conclusion we have two sections. The playlist generator and the listening order. The playlist generator will be two D20 rolls, one for genre and the other for song. I will not be adding duplicate songs so if I get a duplicate I’ll reroll the song, but stay in the same genre. Initially I have no idea how long I want to make this playlist, but I know I want to get at least one or two songs from each genre so I’ll probably use that as a way to finish the playlist generation. The second section, listening order, will change every time I start the playlist again, and will be determined by two coin flips and a D6 dice roll. The dice roll determines the playlist sort, obviously there are only five options so I’ll reroll if the dice lands on six. The two coin flips will determine whether I shuffle or not and also if the sort will be ascending or descending. 
