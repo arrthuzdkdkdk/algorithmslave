@@ -1,6 +1,6 @@
 # Week 2
 
-<+><+><+><+><+><+><+><+><+><+><+><+><+><+><+><+><+><+><+><+>
+_,.-'~'-.,__,.-'~'-.,__,.-'~'-.,__,.-'~'-.,__,.-'~'-.,__,.-'~'-.,__,.-'~'-.,__,.-'~'-.,__,.-'~'-.,__,.-'~'-.,__,.-'~'-.,__,.-'~'-.,__,.-'~'-.,__,.-'~'-.,__,.-'~'-.,_
 
 This week we started our coding adventure with Processing. I have only coded some HTML and lots of BASIC before so Java wasn’t insanely hard for me but I haven’t coded in years so it took awhile for me to get back into the swing of coding. Thankfully I didn’t need to use the cheat sheet or refer back to what Karen was typing since once she told me the code command I remembered it and the parameters that Java uses are pretty easy to get the hang of. Like I said this might be because I’ve coded before so the language of code I already subconsciously know, but it was still a bit difficult since I haven’t coded in a while but I’m sure that’ll change quickly. 
 
@@ -11,7 +11,7 @@ REMIX
 Now over the week we had to remix someone else’s code to change up their portrait. I decided to remix Sam’s one since I found it very interesting. Now in one of the images it reminded me of what looked like a starry night so I wanted to try and recreate that. Firstly I cleaned up the code, there were some lines there were not needed so I got rid of those. I also changed the background to black and changed up the ellipse colours and changed the stroke of those to white to contrast with the black background. Now for the stars I tried for like an hour to create a random number generator so as you draw it would randomly draw stars everywhere but I couldn’t get it to work, nor could I get the opacity to work so I settled for drawing twelve small rectangles around the original cursor. It’s not the best but I couldn’t work out the rest for now so this is my fix. I also added a reset button on any key pressed.
 
 
-<+><+><+><+><+><+><+><+><+><+><+><+><+><+><+><+><+><+><+><+>
+_,.-'~'-.,__,.-'~'-.,__,.-'~'-.,__,.-'~'-.,__,.-'~'-.,__,.-'~'-.,__,.-'~'-.,__,.-'~'-.,__,.-'~'-.,__,.-'~'-.,__,.-'~'-.,__,.-'~'-.,__,.-'~'-.,__,.-'~'-.,__,.-'~'-.,_
 
 
 For homework we were tasked to do the 12 Hour Challenge, which is essentially letting chance decide how we do something we do everyday. So I really enjoy listening to music and can’t do any work without having music playing in the background. I listen to hours of music every single day. I am also very blessed to be brought up with good friends and family with extremely different musical tastes so I am into quite a lot of different musical artists and genres, and I regularly listen to these genres. So I often only listen to a genre at a time, rarely mixing them too much. I have a ton of random playlists but I have a few playlists that just have certain genres, so using those I am going to create a new, totally random playlist taking songs out of these.
