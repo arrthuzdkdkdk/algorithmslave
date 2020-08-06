@@ -10,6 +10,65 @@ For our task this week we had to make a self portrait using Java. Now I wanted t
 
 Now over the week we had to remix someone else’s code to change up their portrait. I decided to remix Sam’s one since I found it very interesting. Now in one of the images it reminded me of what looked like a starry night so I wanted to try and recreate that. Firstly I cleaned up the code, there were some lines there were not needed so I got rid of those. I also changed the background to black and changed up the ellipse colours and changed the stroke of those to white to contrast with the black background. Now for the stars I tried for like an hour to create a random number generator so as you draw it would randomly draw stars everywhere but I couldn’t get it to work, nor could I get the opacity to work so I settled for drawing twelve small rectangles around the original cursor. It’s not the best but I couldn’t work out the rest for now so this is my fix. I also added a reset button on any key pressed.
 
+
+void setup(){
+
+  size(500,500);
+  
+background(0);
+
+}
+
+
+void draw(){
+
+fill(100,mouseX,mouseY); //ellipse fill colour
+
+stroke(255); //ellipse stroke colour (White)
+
+ellipse(mouseX,mouseY,10,10); //ellipse used for the drawing
+
+fill(255); //fill for the "Stars" (White)
+
+noStroke(); //removes stroke from the rectangles
+
+//All of the stars that are being drawn
+
+rect(mouseX*2,mouseY*2,1,1);
+
+rect(mouseX/2,mouseY/2,1,1);
+
+rect(mouseX*2,mouseY/2,1,1);
+
+rect(mouseX/2,mouseY*2,1,1);
+
+rect(mouseX*1,mouseY*2,1,1);
+
+rect(mouseX/1,mouseY/2,1,1);
+
+rect(mouseX*1,mouseY/2,1,1);
+
+rect(mouseX/1,mouseY*2,1,1);
+
+rect(mouseX*2,mouseY*1,1,1);
+
+rect(mouseX/2,mouseY/1,1,1);
+
+rect(mouseX*2,mouseY/1,1,1);
+
+rect(mouseX/2,mouseY*1,1,1);
+
+}
+
+//reset button
+
+void keyPressed(){
+
+background(0);
+
+}
+
+
 ![](sketchremix.png)
 
 
