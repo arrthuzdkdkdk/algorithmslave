@@ -1,4 +1,4 @@
-##Week 2
+# Week 2
 
 This week we started our coding adventure with Processing. I have only coded some HTML and lots of BASIC before so Java wasn’t insanely hard for me but I haven’t coded in years so it took awhile for me to get back into the swing of coding. Thankfully I didn’t need to use the cheat sheet or refer back to what Karen was typing since once she told me the code command I remembered it and the parameters that Java uses are pretty easy to get the hang of. Like I said this might be because I’ve coded before so the language of code I already subconsciously know, but it was still a bit difficult since I haven’t coded in a while but I’m sure that’ll change quickly. 
 
