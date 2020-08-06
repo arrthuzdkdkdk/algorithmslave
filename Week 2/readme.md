@@ -6,9 +6,11 @@ This week we started our coding adventure with Processing. I have only coded som
 
 For our task this week we had to make a self portrait using Java. Now I wanted to try something a bit more abstract and a bit different, and I want to play with multiples. I ended up creating a sort of star pattern with my cursor, having a drawing rectangle in the middle, with another one about 200 pixels away on each corner, creating a five square drawing pattern. Now I was just going to call it a day and try to draw a face, and since the cursor was how it was it would’ve ended up drawing five identical faces, but I wanted to challenge myself. So instead I decided to create five faces using rectangles, and use the cursor so that the user can draw the hair/facial hair.. I didn’t gauge how tough it would actually be, since in order to line up with the cursors I had to get the measurements exact. This took far longer than I thought so the faces only ended up consisting of three rectangles, one for the face and two for the eyes. But it’s alright I challenged myself and therefore I feel a lot better about it. I also coded it so when you pressed a button the whole thing would reset so you could redraw the hair however you want.
 
-REMIX
+![](captureface.png.PNG)
 
 Now over the week we had to remix someone else’s code to change up their portrait. I decided to remix Sam’s one since I found it very interesting. Now in one of the images it reminded me of what looked like a starry night so I wanted to try and recreate that. Firstly I cleaned up the code, there were some lines there were not needed so I got rid of those. I also changed the background to black and changed up the ellipse colours and changed the stroke of those to white to contrast with the black background. Now for the stars I tried for like an hour to create a random number generator so as you draw it would randomly draw stars everywhere but I couldn’t get it to work, nor could I get the opacity to work so I settled for drawing twelve small rectangles around the original cursor. It’s not the best but I couldn’t work out the rest for now so this is my fix. I also added a reset button on any key pressed.
+
+![](sketchremix.png)
 
 
 _,.-'~'-.,__,.-'~'-.,__,.-'~'-.,__,.-'~'-.,__,.-'~'-.,__,.-'~'-.,__,.-'~'-.,__,.-'~'-.,__,.-'~'-.,__,.-'~'-.,__,.-'~'-.,__,.-'~'-.,__,.-'~'-.,__,.-'~'-.,__,.-'~'-.,_
@@ -79,6 +81,10 @@ Head - Ascending
 Tails - Descending
 
 In conclusion we have two sections. The playlist generator and the listening order. The playlist generator will be two D20 rolls, one for genre and the other for song. I will not be adding duplicate songs so if I get a duplicate I’ll reroll the song, but stay in the same genre. Initially I have no idea how long I want to make this playlist, but I know I want to get at least one or two songs from each genre so I’ll probably use that as a way to finish the playlist generation. The second section, listening order, will change every time I start the playlist again, and will be determined by two coin flips and a D6 dice roll. The dice roll determines the playlist sort, obviously there are only five options so I’ll reroll if the dice lands on six. The two coin flips will determine whether I shuffle or not and also if the sort will be ascending or descending. 
+
+
+![](20200806_130737.jpg)20200806_130737.jpg
+
 
 I’ll post the playlist that I generated, and if I get bored then I can simply reroll and make a whole new playlist, but I think I’ll stick to one for now.
 
