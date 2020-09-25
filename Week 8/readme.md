@@ -1,4 +1,4 @@
-# Week 7
+# Week 8
 
 This week we further delved into our project and did a mini presentation of where we are at. So I've decided to continue this jazz theme and make a visualizer/unique song maker, still deciding how to start and end it. Regardless I know that I am going to be splicing jazz songs and creating generative art from it. Along with this I will sorting songs into keys, intrsuments and such and assigning each of these a different element such as shape and colour. 
 With this I know I need to learn certain things with coding:
