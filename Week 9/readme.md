@@ -8,4 +8,5 @@ Unfortunately this week I wasn’t able to make it to class but I have started w
 * Having the rectangle move based on the volume
 	* This one was a bit tricky. I wanted the rectangle to move from the bottom to the top of the screen in a constant fashion but I wanted it to move along the x-axis based on the volume of the song. It wasn’t hard to extract the volume but it was hard to implement it into drawing the rectangle. I first tried using the map element and remapping what the volume gave me (since it gives it in a number between 0 and 1) and turning it into a pixel value somewhere on the screen. I gave up doing this and instead made x and y coordinate values update and added a multiplication of volume to the x coordinate. This is actually better because now I can change how much it’s multiplied by and change how intense the volume change is.
 
-![](2020-09-25 17-19-41.mp4)
+Link to the video below, there is no sound but a song is playing and the rectangle's x-axis fluctuates based on the volume.
+https://drive.google.com/file/d/1VGpgDjVJRA3hUqy20CCj8GgM0kQ6mGa7/view?usp=sharing
