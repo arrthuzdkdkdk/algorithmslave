@@ -1,0 +1,2 @@
+# Week 6
+This week in our coding we finally learnt how to input sound files, and also utilised some information from this to alter our code. Now this was great since my project is going to be all about sound and creating artwork/visualizers from the inputs. This only taught us some of the basics but it is a great starting point for me and this is probably the most useful coding session I will find.
