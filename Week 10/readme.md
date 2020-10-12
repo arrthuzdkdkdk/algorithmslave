@@ -1,4 +1,4 @@
-#Week 10#
+# Week 10
 
 This week I made a bit of progress on what was made last week. What ended up happening was that I kept trying to add more and more elements to the sketch and the code ended up getting so messy that I kinda scratched it. Now what I ended up doing was leaving that file as my experimentation, if I wanted to try anything I’d do it there first, and creating a new file that would be my actual code and copying over anything that would work. So what’s new from last week? Well there are random ellipses being drawn in the background, waveforms on the canvas, a square in the middle that was meant to move but I didn’t get that far before I got rid of the idea, and a spiral slowly being drawn in the middle. So these are all the experiments in this file, there is no menu or anything just purely getting sketches and music on mouse clicks.
 
@@ -15,7 +15,7 @@ Now the new file which is what is currently being used is up to this point.
 	* While the drawing is going pressing “s” will trigger it to stop and save the file as a png
 
 
-#So what needs to be added#
+# So what needs to be added
 * A way to change songs
 * Refurbishing the menu
 * Adding another drawing element where the user can interact with the mouse
