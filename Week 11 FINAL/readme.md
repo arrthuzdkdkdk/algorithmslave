@@ -19,7 +19,7 @@ What’s new?
 	* Small changes to all the ellipses including size and strokes etc.
 * Changing songs
 	* Figured out a way to change songs and have the duration of the last song to translate into the next
-*Bugs
+* Bugs
 	* Small fixes of the code here and there to make sure it doesn’t break
 
 What would I like to add?
