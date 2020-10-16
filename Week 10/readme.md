@@ -7,7 +7,7 @@ Now the new file which is what is currently being used is up to this point.
 	* Got a basic menu layout, still need to work on it and get it to show all necessary information but works as a temporary fix for now. Also means when you click on the canvas it takes you back to the main menu and restarts it
 * More songs
 	* Added up to seven songs now, but for some reason the random function I have in place likes to play the same song a couple times in a row so I gotta work on trying to make it more random.
-*Drawing elements and colour
+* Drawing elements and colour
 	* So currently I have two elements drawing on the canvas. I have random ellipses in the background being drawn, and a spiral of ellipses. The random in the background is purely random but the way it works is when you change songs it will also change the colour so the ellipses will all be different colours, but for now it can’t change songs so they simply exist to populate the background. In the working file I had a spiral being drawn by using sin, cos and tan elements, and I love the way it spirals from the center but I wanted it a bit different. So I came up with this circle rotating element and it fluctuates based on volume, I adapted this from the rectangle from last week, because I didn’t like the look of it but I liked an element fluctuating on volume so I adapted it to this instead. Also all the elements are coloured based on key, I found an article of a guy with sound-to-color synesthesia who described how each key sounds and what colour he associates them with so I used that as the reasoning for the colours used. 
 * Save function
 	* While the drawing is going pressing “s” will trigger it to stop and save the file as a png
