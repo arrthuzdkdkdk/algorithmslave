@@ -2,8 +2,6 @@
 
 This week I made a bit of progress on what was made last week. What ended up happening was that I kept trying to add more and more elements to the sketch and the code ended up getting so messy that I kinda scratched it. Now what I ended up doing was leaving that file as my experimentation, if I wanted to try anything I’d do it there first, and creating a new file that would be my actual code and copying over anything that would work. So what’s new from last week? Well there are random ellipses being drawn in the background, waveforms on the canvas, a square in the middle that was meant to move but I didn’t get that far before I got rid of the idea, and a spiral slowly being drawn in the middle. So these are all the experiments in this file, there is no menu or anything just purely getting sketches and music on mouse clicks.
 
-Old file is "jazzcats" whereas new file is "jazzcats2"
-
 Now the new file which is what is currently being used is up to this point.
 * Main menu
 	* Got a basic menu layout, still need to work on it and get it to show all necessary information but works as a temporary fix for now. Also means when you click on the canvas it takes you back to the main menu and restarts it
